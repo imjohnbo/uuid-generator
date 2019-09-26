@@ -14,15 +14,15 @@ settings.acceptType = "application/json";
 
 // your service identifiers
 settings.serviceName = "uuid-generator";
-settings.serviceURL = "http://rwmbook-uuid.herokuapp.com";
+settings.serviceURL = "https://open-disco-imjohnbo.glitch.me/";
 settings.tags = "amundsen uuid free";
 
 // the registry service endpoints
-settings.registerURL = "http://rwmbook-registry.herokuapp.com/reg/";
-settings.renewURL = "http://rwmbook-registry.herokuapp.com/renew/";
-settings.unregisterURL = "http://rwmbook-registry.herokuapp.com/unreg/";
-settings.findURL = "http://rwmbook-registry.herokuapp.com/find/";
-settings.bindURL = "http://rwmbook-registry.herokuapp.com/bind/";
+settings.registerURL = "https://open-disco-imjohnbo.glitch.me//reg/";
+settings.renewURL = "https://open-disco-imjohnbo.glitch.me//renew/";
+settings.unregisterURL = "https://open-disco-imjohnbo.glitch.me//unreg/";
+settings.findURL = "https://open-disco-imjohnbo.glitch.me//find/";
+settings.bindURL = "https://open-disco-imjohnbo.glitch.me//bind/";
 
 // publish node
 module.exports = settings;
