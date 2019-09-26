@@ -13,9 +13,9 @@ settings.contentType = "application/x-www-form-urlencoded";
 settings.acceptType = "application/json";
 
 // your service identifiers
-settings.serviceName = "uuid-generator";
+settings.serviceName = "imjohnbo service";
 settings.serviceURL = "https://open-disco-imjohnbo.glitch.me/";
-settings.tags = "amundsen uuid free";
+settings.tags = "imjohnbo uuid free";
 
 // the registry service endpoints
 settings.registerURL = "https://open-disco-imjohnbo.glitch.me//reg/";
